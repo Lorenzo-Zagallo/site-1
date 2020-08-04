@@ -1,0 +1,25 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: auto;
+    box-shadow: 2px 2px 5px gray;
+}
+
+p {
+    text-align: justify ;
+    color: white;
+    padding-right: 150px;
+    padding-left: 150px;
+    text-indent: 50px;
+    text-shadow: 2px 2px 2px black;
+    font-size: 20px;
+}
+
+#up {
+    padding-top: 50px;
+}
