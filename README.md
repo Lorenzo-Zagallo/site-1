@@ -1,6 +1,6 @@
-## Site HTML e CSS criado no curso Meu Primeiro Site
+## Site HTML e CSS criado no curso Meu Primeiro Site da JA Brasil
 
-Página web simple abordando os conceitos básicos de criação de páginas utilizando HTML e CSS.
+Página web simples abordando os conceitos básicos de criação de páginas utilizando HTML e CSS.
 
 ### Tecnologias Utilizadas
 
